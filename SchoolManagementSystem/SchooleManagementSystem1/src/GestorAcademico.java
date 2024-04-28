@@ -18,17 +18,8 @@ public class GestorAcademico implements ServiciosAcademicos {
     }
 
     public void agregarCurso(String curso) {
-        listaCursos.add(curso);
+        listaCurso.add(curso);
         estudiantesPorCurso.put(curso, new ArrayList<>());
-    }
-
-    public void inscribirEstudianteEnCurso(String estudiante, String curso) {
-        if (listaEstudiantes.contains(estudiante) && listaCursos.contains(curso)) {
-            ArrayList<String> estudiantesInscritos = estudiantesPorCurso.get(curso);
-            estudiantesInscritos.add(estudiante);
-        } else {
-            System.out.println("Estudiante o curso no encontrado.");
-        }
     }
 
     public ArrayList<String> obtenerEstudiantesPorCurso(String curso){
@@ -48,17 +39,33 @@ public class GestorAcademico implements ServiciosAcademicos {
     }
 
     @Override
-    public  void inscribirEstudianteCurso(Estudiante estudiante, int idEstudiante){
-        System.out.println("Inscribiendo a un nuevo Estudiante" + "El nombre del estudiante es "+estudiante + "El id del estudiante es"+ idEstudiante);
+    public void inscribirEstudianteCurso(Estudiante estudiante, int idEstudiante) {
+        if (listaEstudiantes.contains(estudiante)&& listaEstudiantes.contains(idEstudiante)){
+            ArrayList<String> estudiantesInscritos = estudiantesPorCurso.get(idEstudiante);
+            estudiantesInscritos.add(estudiante.toString());
+            System.out.println("El estudiante" + estudiante + "ha sido inscrito ");
+        }else {
+            System.out.println("Estudiante o curso no encontrado ");
+        }
 
     }
 
     @Override
     public void desinscribirEstudianteCurso(int idEstudiante, int idCurso) {
+        if (listaEstudiantes.contains(idEstudiante)&& listaCurso.contains(idCurso)){
+            ArrayList<String> estudiantesInscritos = estudiantesPorCurso.get(idCurso);
+                if (estudiantesInscritos.contains(idEstudiante)){
+                    estudiantesInscritos.remove(idEstudiante);
+                    System.out.println("Estudiante" + idEstudiante + "ha sido desinscrito del curso " + idCurso);
+                } else {
+                    System.out.println("El estudiante " + "no esta inscrito en el curso " + idCurso);
+                }
 
+        } else {
+            System.out.println("Estudiante no encontrado");
+        }
 
     }
-
 
 
 

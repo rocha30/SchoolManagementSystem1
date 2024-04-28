@@ -1,0 +1,13 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŠôıJ$6b4966b8-7993-4bd9-bc62-63695aab7003
+—	java:S116"WRename this field "descripciÃ³n" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ƒ“øÿÿÿÿJ$6890744c-ec50-45db-a11a-9e1cdaf1f985
+g
+java:S1068"&Remove this unused "id" private field.(ôç¼ÓşÿÿÿÿJ$ec6e71b1-80be-4002-8d05-80b3515e1225
+k
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿJ$2cb14870-9cd1-4f9a-94dd-e35e43d95767
+q
+java:S1068"0Remove this unused "descripciÃ³n" private field.(¤ƒ“øÿÿÿÿJ$fe8e02b6-a12d-475e-8984-4f653769f02e
+p
+java:S1068"/Remove this unused "numCreditos" private field.(ñÜß¾øÿÿÿÿJ$e823cba5-e1be-45ca-90cc-208ddc7361e3
+l
+java:S1068"+Remove this unused "version" private field.(™…„—øÿÿÿÿJ$f5eac108-9a7c-4e9f-93b4-0367ac93f364

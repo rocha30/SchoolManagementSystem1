@@ -1,0 +1,19 @@
+
+n
+>SchoolManagementSystem/SchooleManagementSystem1/src/Curso.java,d\8\d8bd612384e1bed166a635dd65cac6afece1d1f9
+K
+SchoolManagementSystem1.iml,9\8\98f0891647155a851d4aa32b0b120bdd1cc13f92
+s
+CSchoolManagementSystem/SchooleManagementSystem1/src/Estudiante.java,0\4\04e56b9bfff60333038a0e2654476b5823682f93
+m
+=SchoolManagementSystem/SchooleManagementSystem1/src/Main.java,f\4\f4159f2eb7dd09aafc5ecfa14a747e5fd68657c5
+x
+HSchoolManagementSystem/SchooleManagementSystem1/src/GestorAcademico.java,4\9\4971f7b7052853cc9f05d449d13935322fbb4112
+p
+@SchoolManagementSystem/SchooleManagementSystem1/src/Persona.java,f\9\f9f1b6ccb96751d97b22083816129a7e8bbf0cb9
+|
+LSchoolManagementSystem/SchooleManagementSystem1/src/ServiciosAcademicos.java,3\7\3746c2a180307f64759bad73c2844de31821062e
+j
+:SchoolManagementSystem/SchooleManagementSystem1/src/copia ,7\2\72488ad06b119aea04fbe601bddc2d21f8e0d5ce
+i
+9SchoolManagementSystem/SchooleManagementSystem1/src/copia,c\b\cb66e948a129f8dd3ddf0b7f065920aefd60bc30

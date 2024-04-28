@@ -1,0 +1,22 @@
+
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¿ö÷üÿÿÿÿ8µ›úò1J$697a7343-049d-40f5-a2e4-260060cc5f03
+¢	java:S116"[Rename this field "Fecha_Nacimiento" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÏ÷‘ûÿÿÿÿ8…§ùò1J$dcf07d99-15ac-4a66-89af-0a8667b6ae21
+u
+java:S2387"-"nombre" is the name of a field in "Persona".(µÿï„ùÿÿÿÿ8‡§ùò1J$7dc767d7-8ca8-4df0-8f82-c23f28d0767d
+r
+java:S2387"/"apellido" is the name of a field in "Persona".(åÔĞÁ8‡§ùò1J$fc0cd037-285f-4072-9e81-47badcda4cc1
+
+java:S2387"7"Fecha_Nacimiento" is the name of a field in "Persona".(ôÏ÷‘ûÿÿÿÿ8ˆ§ùò1J$fa297388-6181-4310-8761-3b089a5e3dc3
+n
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8Øûò1J$b117d06f-487d-4a7e-8bac-1fb100d24bd4
+n
+java:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8áùò1J$49b3caa8-2213-4db2-975a-09fc8468b1e2
+r
+java:S1068"*Remove this unused "nombre" private field.(µÿï„ùÿÿÿÿ8áùò1J$6abfe038-7e5d-430f-aa13-2c181107174a
+o
+java:S1068",Remove this unused "apellido" private field.(åÔĞÁ8áùò1J$da6fafa2-2d98-4c5c-b6a8-ec23439e8eb2
+|
+java:S1068"4Remove this unused "Fecha_Nacimiento" private field.(ôÏ÷‘ûÿÿÿÿ8áùò1J$d1112e86-f861-478d-9e3a-82bd221a07fa
+l
+java:S1068"*Remove this unused "estado" private field.(„ß¾28áùò1J$53f89a49-2333-4884-b357-f227c4d0e1da

@@ -1,0 +1,8 @@
+public void inscribirEstudianteEnCurso(String estudiante, String curso) {
+        if (listaEstudiantes.contains(estudiante) && listaCurso.contains(curso)) {
+            ArrayList<String> estudiantesInscritos = estudiantesPorCurso.get(curso);
+            estudiantesInscritos.add(estudiante);
+        } else {
+            System.out.println("Estudiante o curso no encontrado.");
+        }
+    }

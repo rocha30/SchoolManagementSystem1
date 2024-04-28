@@ -1,0 +1,26 @@
+
+³
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(øû»¢8ĞãÓò1J$f32b178d-7e81-42ed-8c10-d8d0fce4d702
+m	java:S106!"+Replace this use of System.out by a logger.(å€¦Ó8áãÓò1J$91c2f0e3-6f29-4af4-9246-5ac721f13dff
+m	java:S106&"+Replace this use of System.out by a logger.(±²€³8âãÓò1J$2ff001f0-3d6b-450b-9694-4d8e8d83b8a2
+w
+java:S2175+"4A "ArrayList<String>" cannot contain a "Estudiante".(¨ò¿ª8äãÓò1J$bf0e58b7-612f-4db6-9411-fb4fe1e56b2b
+p
+java:S2175+"-A "ArrayList<String>" cannot contain a "int".(¨ò¿ª8çãÓò1J$77569cae-8602-43cc-bc02-c5e97c6c2c45
+Œ
+java:S2175,"IA "HashMap<String, ArrayList>" cannot contain a "int" in a "String" type.(§¾Í˜8çãÓò1J$e3e77e80-e34b-4cff-9436-ef6af42e94cb
+r	java:S106."+Replace this use of System.out by a logger.(ÍªÛÙúÿÿÿÿ8åãÓò1J$f7cc6945-8e82-488e-93c8-70ae2c7092e5
+r	java:S1060"+Replace this use of System.out by a logger.(ÃÅıäüÿÿÿÿ8éãÓò1J$e254c366-a46b-4776-98df-9ef862cb538e
+u
+java:S21757"-A "ArrayList<String>" cannot contain a "int".(•ğŞÿÿÿÿÿ8çãÓò1J$3740b846-62fa-4dc7-9df4-5b6e38bea7c7
+u
+java:S21757"-A "ArrayList<String>" cannot contain a "int".(•ğŞÿÿÿÿÿ8èãÓò1J$309fcf60-a065-4e32-81cc-fcaf7dc34a8c
+f
+java:S21758"IA "HashMap<String, ArrayList>" cannot contain a "int" in a "String" type.(´à’ò8Â’ãò1
+u
+java:S21759"-A "ArrayList<String>" cannot contain a "int".(ê¯æõøÿÿÿÿ8Å¼âò1J$7fc36422-107f-4ada-a5a1-9b6496e7dae0
+r	java:S106;"+Replace this use of System.out by a logger.(¹ı…Õıÿÿÿÿ8éãÓò1J$93c50471-6d4f-43a6-9e6e-f519ebe65fcc
+m	java:S106="+Replace this use of System.out by a logger.(¯†Ôª8êãÓò1J$b1602bcc-d89b-472b-9b05-9ad0d1250eef
+r	java:S106A"+Replace this use of System.out by a logger.(©Œ³Óùÿÿÿÿ8¼…Öò1J$23039940-1271-4ace-b47c-ea0fe2ff4991
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8Å’ãò1
